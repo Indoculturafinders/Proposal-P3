@@ -1,0 +1,52 @@
+{
+  "page1": {
+    "title": "IndoCulturaFinder",
+    "note": "Fitur bisa saja berubah sesuai dengan pengembangan",
+    "content1": {
+      "title":"IndoculturaFinder",
+      "imageURL": "https://raw.githubusercontent.com/IndoCulturaFinder/IndoCulturaFinder.github.io/main/assets/image/jaipong.png",
+      "description": "IndoCultura Finder adalah aplikasi yang bertujuan untuk menyajikan informasi tentang kekayaan budaya Indonesia dalam format yang mudah diakses dan menarik. Aplikasi ini akan memberikan pengguna pengalaman menjelajahi berbagai budaya dari berbagai wilayah Indonesia."
+    },
+    "content2": {
+      "title2":"User",
+      "imageURL2": "https://raw.githubusercontent.com/IndoCulturaFinder/IndoCulturaFinder.github.io/main/assets/image/saman.png",
+      "description2": "Memberikan pengguna pengalaman menjelajahi berbagai budaya dari berbagai wilayah Indonesia, termasuk informasi tentang upacara adat, festival, seni rupa, dan sejarah budaya."
+    },
+    "content3": {
+      "title3":"Admin",
+      "imageURL3": "https://raw.githubusercontent.com/IndoCulturaFinder/IndoCulturaFinder.github.io/main/assets/image/sajojo.png",
+      "description3": "Fitur yang tersedia untuk admin terdiri dari mengatur konten konten yang akan ditampilkan seperti mengatur data konten. Fitur tersebut digambarkan seperti menambah item konten seperti informasi baru terkait budaya yang ada di Indonesia, gambar dan lain-lain, merubah item, dan menghapus item yang ada pada sistem."
+    }
+  },
+  "page2": {
+    "title": "Test",
+    "content1": {
+      "title":"Tujuan Proposal",
+      "deskripsi": "Ditujukan sebagai salah satu syarat",
+      "deskripsii": "Untuk memperoleh nilai pada kegiatan",
+      "deskripsiii": "Proyek III Program Studi D-IV Teknik Informatika"
+    },
+    "content2": {
+      "title2":"BACK-END APLIKASI INDOCULTURAFINDER: IMPLEMENTASI RESTFUL API MENGGUNAKAN FRAMEWORK LARAVEL DI PT PRESENTOLOGICS",
+      "deskripsi2": "Dalam era digital yang terus berkembang, peran pengembang aplikasi sangat penting dalam mendukung pertumbuhan ekonomi dan transformasi teknologi di Indonesia. Demi memenuhi kebutuhan pembelajaran dan promosi budaya Indonesia, proyek IndoCultura Finder hadir sebagai solusi. Perancangan pada bagian Front-End aplikasi akan menerapkan ECMAScript 6 dan juga menerapkan Progressive Web Page. Fokus proyek ini adalah membangun bagian Back-end untuk aplikasi IndoCultura Finder dengan penerapan RESTful API dan menggunakan Framework Laravel. Aplikasi ini bertujuan untuk mempermudah akses informasi tentang berbagai aspek budaya Indonesia, termasuk upacara adat, festival, seni rupa, dan sejarah budaya, dengan kecepatan akses bahkan dalam kondisi jaringan terbatas. Dengan teknologi canggih dan beragamnya budaya Indonesia, proyek ini bertujuan menjadi sumber pengetahuan yang bermanfaat, membantu melestarikan warisan budaya Indonesia, dan mempererat ikatan antar-generasi dalam upaya memahami serta menghargai kekayaan budaya Indonesia yang luar biasa."
+    },
+    "content3": {
+      "title3":"Permasalahan",
+      "problem": "Dalam proyek IndoCultura Finder, terdapat dua permasalahan utama yang perlu diselesaikan. Pertama, bagaimana cara melakukan integrasi penyimpanan data aplikasi secara terpisah, yang biasa disebut sebagai penggunaan pendekatan microservice? Kedua, bagaimana mengembangkan RESTful API dengan menggunakan Framework Laravel untuk memastikan aplikasi dapat berfungsi dengan baik dan efisien? Dalam proyek ini, kedua aspek ini akan menjadi fokus utama untuk memastikan aplikasi dapat menjalankan tugasnya dengan optimal."
+    },
+    "content4": {
+      "title4":"Tujuan",
+      "solving": "Tujuan dijalankannya proyek ini akan menyelesaikan beberapa permasalahan yang merujuk pada identifikasi sebelumya, yaitu akan berfokus pada dua hal utama. Pertama, akan melakukan integrasi penyimpanan data aplikasi secara terpisah antara Front-End dan juga Back-End, yang dikenal sebagai pendekatan microservice. Kedua, akan mengembangkan RESTful API dengan menggunakan Framework Laravel untuk memastikan fungsionalitas aplikasi berjalan dengan baik dan optimal. Dengan fokus pada dua aspek penting ini, pelaksanaan proyek bertujuan untuk menciptakan aplikasi yang baik dalam memenuhi kebutuhan perancangan aplikasi pada bagian Back-End."
+    }
+  },
+  "page4": {
+    "title": "Halo!",
+    "name": "Muhammad Ilman Aqilaa",
+    "content": "Ini adalah halaman ketiga dengan fitur-fitur aplikasi.",
+    "prodi": "Prodi D4 Teknik Informatika",
+    "desc": "Saya adalah mahasiswa Universitas Logistik dan Bisnis Internasional Bandung",
+    "campus": "https://www.ulbi.ac.id/",
+    "picture": "https://raw.githubusercontent.com/ARStores/ARStore/main/assets/image/ilman.jpg",
+    "nim": "1204055"
+  }
+}
