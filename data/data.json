@@ -42,11 +42,14 @@
   "page4": {
     "title": "Halo!",
     "name": "Muhammad Ilman Aqilaa",
-    "content": "Ini adalah halaman ketiga dengan fitur-fitur aplikasi.",
     "prodi": "Prodi D4 Teknik Informatika",
-    "desc": "Saya adalah mahasiswa Universitas Logistik dan Bisnis Internasional Bandung",
+    "desc": "Mahasiswa Universitas Logistik dan Bisnis Internasional Bandung",
     "campus": "https://www.ulbi.ac.id/",
     "picture": "https://raw.githubusercontent.com/ARStores/ARStore/main/assets/image/ilman.jpg",
-    "nim": "1204055"
+    "nim": "1204055",
+    
+    "name2": "Aulia Maharani",
+    "picture2": "https://raw.githubusercontent.com/ARStores/ARStore/main/assets/image/ilman.jpg",
+    "nim2": "1214079"
   }
 }
