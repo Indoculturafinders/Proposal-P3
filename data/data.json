@@ -4,17 +4,17 @@
     "note": "Fitur bisa saja berubah sesuai dengan pengembangan",
     "content1": {
       "title":"IndoculturaFinder",
-      "imageURL": "https://raw.githubusercontent.com/IndoCulturaFinder/IndoCulturaFinder.github.io/main/assets/image/jaipong.png",
+      "imageURL": "https://raw.githubusercontent.com/Indoculturafinders/indoculturafinder/main/assets/image/jaipong.png",
       "description": "IndoCultura Finder adalah aplikasi yang bertujuan untuk menyajikan informasi tentang kekayaan budaya Indonesia dalam format yang mudah diakses dan menarik. Aplikasi ini akan memberikan pengguna pengalaman menjelajahi berbagai budaya dari berbagai wilayah Indonesia."
     },
     "content2": {
       "title2":"User",
-      "imageURL2": "https://raw.githubusercontent.com/IndoCulturaFinder/IndoCulturaFinder.github.io/main/assets/image/saman.png",
+      "imageURL2": "https://raw.githubusercontent.com/Indoculturafinders/indoculturafinder/main/assets/image/saman.png",
       "description2": "Memberikan pengguna pengalaman menjelajahi berbagai budaya dari berbagai wilayah Indonesia, termasuk informasi tentang upacara adat, festival, seni rupa, dan sejarah budaya."
     },
     "content3": {
       "title3":"Admin",
-      "imageURL3": "https://raw.githubusercontent.com/IndoCulturaFinder/IndoCulturaFinder.github.io/main/assets/image/sajojo.png",
+      "imageURL3": "https://raw.githubusercontent.com/Indoculturafinders/indoculturafinder/main/assets/image/sajojo.png",
       "description3": "Fitur yang tersedia untuk admin terdiri dari mengatur konten konten yang akan ditampilkan seperti mengatur data konten. Fitur tersebut digambarkan seperti menambah item konten seperti informasi baru terkait budaya yang ada di Indonesia, gambar dan lain-lain, merubah item, dan menghapus item yang ada pada sistem."
     }
   },
@@ -45,11 +45,11 @@
     "prodi": "Prodi D4 Teknik Informatika",
     "desc": "Mahasiswa Universitas Logistik dan Bisnis Internasional Bandung",
     "campus": "https://www.ulbi.ac.id/",
-    "picture": "https://raw.githubusercontent.com/ARStores/ARStore/main/assets/image/ilman.jpg",
+    "picture": "https://raw.githubusercontent.com/Indoculturafinders/indoculturafinder/main/assets/image/ilman.jpg",
     "nim": "1204055",
     
     "name2": "Aulia Maharani",
-    "picture2": "https://raw.githubusercontent.com/ARStores/ARStore/main/assets/image/ilman.jpg",
+    "picture2": "https://raw.githubusercontent.com/Indoculturafinders/indoculturafinder/main/assets/image/aul_pic.jpg",
     "nim2": "1214079"
   }
 }

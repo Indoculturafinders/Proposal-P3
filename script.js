@@ -449,12 +449,10 @@ document.addEventListener("DOMContentLoaded", function () {
                     </article>
             
                     <article id="geografis" class="atas kanan">
-                        <img src="${pageData.picture}" alt="">
+                        <img src="${pageData.picture2}" alt="">
                             <div>
-                                <a href="https://github.com/ilmanaqilaa" target="_blank"><i class="fab fa-github"></i></a>
-                                <a href="https://www.facebook.com/profile.php?id=100007457206009" target="_blank"><i class="fab fa-facebook"></i></a>
-                                <a href="https://www.instagram.com/ilmanaqilaa" target="_blank"><i class="fab fa-instagram"></i></a>
-                                <a href="https://id.linkedin.com/in/ilman-aqilaa-0132b9203" target="_blank"><i class="fab fa-linkedin"></i></a>
+                                <a href="https://github.com/awrlia" target="_blank"><i class="fab fa-github"></i></a>
+
                             </div>
                     </article>
                 </div>
